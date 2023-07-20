@@ -1,0 +1,6 @@
+transformers
+transformers[sentencepiece]
+beautifulsoup4
+flask
+flask_cors
+torch 
